@@ -1,4 +1,4 @@
-package CriandoProgramas;
+package exercicioslogica;
 
 import java.util.Scanner;
 
